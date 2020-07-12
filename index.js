@@ -20,10 +20,7 @@ function johnLennonFacts() {
   return array;
 }
 var facts = [
-  "He was the last Beatle to learn to drive",
-  "He was never a vegetarian",
-  "He was a choir boy and boy scout",
-  "He hated the sound of his own voice",
+
   "While on tour, he enjoyed playing Monopoly",
   "Harmonica was the first instrument Lennon learned to play"
 ];
