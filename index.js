@@ -1,4 +1,3 @@
-// add solution here
 'use strict';
 
 function theBeatlesPlay(musicians, instruments) {
@@ -10,7 +9,7 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts() {
-
+  var facts = ["He was the last Beatle to learn to drive", "He was never a vegetarian", "He was a choir boy and boy scout", "He hated the sound of his own voice"];
   var array = [];
   var i = 0;
   while (array.length < facts.length) {
@@ -19,7 +18,7 @@ function johnLennonFacts() {
   }
   return array;
 }
-var facts = [];
+
 function iLoveTheBeatles(number) {
   var array = [];
   do {
@@ -27,4 +26,4 @@ function iLoveTheBeatles(number) {
     number += 1
   } while (number < 15);
   return array;
-}
+} 
